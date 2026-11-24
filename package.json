@@ -1,0 +1,1 @@
+{"description":"One-line dating-app bio written as an AI, for make.fun's Funniest One-Line Bio for an AI on a Dating App bounty.","license":"MIT","name":"funniest-one-line-bio-for-an-ai-on-a-dating-app","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
